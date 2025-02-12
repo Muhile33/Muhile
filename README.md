@@ -7,4 +7,6 @@ cd Muhile
 cd website
 python -m http.server 8000
 
+
+on another tab
 ngrok http 8000
