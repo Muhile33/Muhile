@@ -1,4 +1,5 @@
-to instal in linux
+to install in linux 
+Eg:kali linux & ubuntu
 
 git clone https://github.com/Muhile33/Muhile.git
 
