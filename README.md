@@ -41,3 +41,5 @@ Q: How can I leave a review? A: You must be logged in to leave a review. Find th
 
 Contact Us
 If you have any questions or need assistance, please don't hesitate to contact us at Muhile33@gmail.com
+
+------to install head to the releases Muhile------
